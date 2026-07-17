@@ -5,6 +5,10 @@ This project demonstrates dimensional data modeling principles by designing a st
 Key concepts demonstrated:
 
 Fact and dimension table design
+
 Grain definition and its impact on schema design
+
 Star vs. snowflake schema trade-offs
+
 Analytical SQL query patterns for BI reporting
+
