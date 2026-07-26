@@ -74,7 +74,7 @@ A dimensional data warehouse solves this problem by organizing data into Fact an
 
 > Replace this image after adding your professional diagram.
 
-![Star Schema](images/star_schema.png)
+![Star Schema](images/StarSchema.png)
 
 ---
 
